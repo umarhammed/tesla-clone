@@ -4,6 +4,8 @@
   padding: 0;
   margin: 0;
   color: #393c41;
+  scroll-behavior: smooth;
+  scroll-snap-type: y mandatory;
 }
 
 body {
