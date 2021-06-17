@@ -45,6 +45,9 @@ const TextItem = styled.div`
 
 const ButtonGroup = styled.div`
   display: flex;
+
+  color: ;
+
   margin-botttom: 30px;
   @media (max-width: 768px) {
     flex-direction: column;
